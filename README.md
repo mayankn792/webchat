@@ -23,4 +23,16 @@ $ cd node_server
 $ node .
 ```
 
+### Screenshots
+
+* #### Desktop view
+<img src="/Screenshots/create-new-room-page.png" />
+
+<img src="/Screenshots/main-chat-page-1.png" />
+<img src="/Screenshots/main-chat-page-2.png" />
+<img src="/Screenshots/main-chat-page-3.png" />
+
+* #### Mobile view
+<img src="/Screenshots/responsive-main-chat-page-1.png" />
+<img src="/Screenshots/responsive-main-chat-page-2.png" />
 
