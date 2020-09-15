@@ -1,0 +1,142 @@
+.main-msg-container {
+  background-color: white;
+  color: #282c34;
+  border-radius: 2px;
+  padding-bottom: 30px;
+  height: 87vh;
+  overflow: auto;
+  position: sticky;
+  bottom: 0px;
+  background: #efe7dd url("https://cloud.githubusercontent.com/assets/398893/15136779/4e765036-1639-11e6-9201-67e728e86f39.jpg") repeat;
+}
+
+.message {
+  color:  white;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 5px;
+}
+
+.right {
+  background-color: #282c34;
+  float: right;
+  clear: both;
+  border-top-right-radius: 0px;
+}
+
+.left {
+  float: left;
+  clear: both;
+  border-top-left-radius: 0px;
+  background-color: #2f404a;
+}
+
+.notification {
+  margin: 1%;
+  text-align: center;
+  clear: both;
+  font-weight: 900;
+  color: #394c61;
+  font-family: monospace;
+  font-size: 14px;
+}
+
+.header {
+  background-color: #282c34;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+
+.break {
+  word-break: break-all;
+}
+
+.footer {
+  background-color: #D5DAD6;
+  position: sticky;
+  bottom: 0;
+}
+
+#messageInput {
+  border: none;
+  box-shadow: none;
+  height: 55px;
+  background-color: #D5DAD6;
+  color: black;
+}
+
+.input-group {
+  width: 100%;
+}
+
+.member img {
+  border-radius: 50%;
+}
+
+.name, .avtar, .active {
+  padding-right: 10px;
+  display: inline;
+  color: white;
+}
+
+.member {
+  padding: 2%;
+}
+
+.member:hover {
+  background-color: #595d64;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+#toggle {
+  cursor: pointer;
+  visibility: hidden;
+}
+
+.group a {
+  text-decoration: none;
+}
+
+#membersId {
+  height: 72vh;
+  overflow: auto;
+}
+
+.modal-content {
+  background-color: white;
+  font-weight: 100;
+  color: #282c34;
+}
+
+.form-group {
+  margin-bottom: 0px;
+}
+
+.btn-group {
+  margin-top: 1rem;
+  float: right;
+}
+
+.form-group label {
+  margin-bottom: 0px;
+}
+
+/* .modal-content input[type='text'] {
+  outline: none;
+  border: 1px solid black;
+} */
+
+/* .modal-content input[type='text']:focus {
+  box-shadow: 0 0 6px rgba(0, 200, 222, 0.25);
+  
+} */
+
+nav a {
+  color: white;
+}
+
+nav a:hover {
+  color: #595d64;
+}
